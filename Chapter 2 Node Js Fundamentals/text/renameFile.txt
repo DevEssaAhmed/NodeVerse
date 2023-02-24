@@ -1,0 +1,2 @@
+I have written using fs.writeFIle method
+I have appended this using fs.appendFile method
